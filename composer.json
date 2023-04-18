@@ -1,5 +1,5 @@
 {
-    "name": "cbh/uiscom-api-client",
+    "name": "kirin/uiscom-api-client",
     "type": "library",
     "description": "PHP client for UIS Api",
     "authors": [
